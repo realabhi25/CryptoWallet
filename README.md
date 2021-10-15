@@ -32,3 +32,5 @@ curl --location --request POST 'http://localhost:8081/api/v1/export' \
     "WalletPassword" : "<wallet password>"
 }'
 ```
+
+#### You can connect this project with Ethereum mainnet by replacing the https://github.com/realabhi25/CryptoWallet/blob/main/network/main.go with your Infura API Key

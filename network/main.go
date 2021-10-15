@@ -9,7 +9,7 @@ import (
 
 func main() {
 
-	_, err := ethclient.Dial("https://mainnet.infura.io/v3/481aae13af304546be954575713bf8c6")
+	_, err := ethclient.Dial("https://mainnet.infura.io/v3/<Your Infura Key>")
 
 	if err != nil {
 		fmt.Println(err)

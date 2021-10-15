@@ -1,10 +1,10 @@
 package main
 
 import (
-	structures "Avi/Structures"
-	"Avi/accountmanagement"
-	"Avi/errorhandler"
-	"Avi/wallet"
+	structures "CryptoWallet/Structures"
+	"CryptoWallet/accountmanagement"
+	"CryptoWallet/errorhandler"
+	"CryptoWallet/wallet"
 	"encoding/json"
 	"fmt"
 	"io"

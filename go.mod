@@ -1,4 +1,4 @@
-module Avi
+module CryptoWallet
 
 go 1.17
 
